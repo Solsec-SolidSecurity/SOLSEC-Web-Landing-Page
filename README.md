@@ -1,2 +1,16 @@
-# SOLSEC-Web-Landing-Page
-SOLSEC Web Landing Page Official landing page repository for SOLSEC. Built to showcase the project overview, features, and community links with a modern, responsive web interface.
+# SOLSEC Landing Page
+
+This repository contains **only the landing page** for the SOLSEC project.
+
+It is intended for presenting basic project information, features overview, and official community links.  
+No backend logic, dashboard, or application functionality is included in this repository.
+
+## Scope
+- Marketing / informational landing page only
+- Frontend UI
+- Responsive web design
+
+## Notes
+- This repository does **not** include smart contracts
+- This repository does **not** include app or dashboard features
+- Core SOLSEC functionality is developed in separate repositories
